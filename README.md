@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <b> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522call%2Blogo%2522&psig=AOvVaw3VYENLz4eXt8Wws-NKjwKW&ust=1698748763339000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJja773KnYIDFQAAAAAdAAAAABAR"> </img> 7309215786  </b>
+ <b> <img src=["https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522call%2Blogo%2522&psig=AOvVaw3VYENLz4eXt8Wws-NKjwKW&ust=1698748763339000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJja773KnYIDFQAAAAAdAAAAABAR"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522call%2Blogo%2522&psig=AOvVaw3VYENLz4eXt8Wws-NKjwKW&ust=1698748763339000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJja773KnYIDFQAAAAAdAAAAABAR)> </img> 7309215786  </b>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-majid-78990445/?trk=public-profile-join-page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-majid-78990445/?trk=public-profile-join-page" height="30" width="40" /></a>
 <a href="https://instagram.com/a.bdulmajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.bdulmajid" height="30" width="40" /></a>
 </p>
