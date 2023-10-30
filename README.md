@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <b> <img src="https://i.pinimg.com/originals/43/ac/f9/43acf98fb59be0b2aa824a682b8a2dc8.png" style="10px" ></img> 7309215786  </b>
+ <b> <img src="https://i.pinimg.com/originals/43/ac/f9/43acf98fb59be0b2aa824a682b8a2dc8.png" high="30" widh="10" ></img> 7309215786  </b>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-majid-78990445/?trk=public-profile-join-page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-majid-78990445/?trk=public-profile-join-page" height="30" width="40" /></a>
 <a href="https://instagram.com/a.bdulmajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.bdulmajid" height="30" width="40" /></a>
 </p>
